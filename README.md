@@ -138,8 +138,3 @@ After running the script, you will find two files in the directory you create:
 ## Output Example
 The output word cloud will visually display the most frequent words used in Biden's Farewell Address. The cloud will be designed using the color scheme of blue and red, and words will appear in a "circle" shape.
 ![biden_farewell_address](https://github.com/user-attachments/assets/4341ec7c-8cf5-4006-996f-6c27562733f3)
-
----
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
