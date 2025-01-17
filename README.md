@@ -1,6 +1,6 @@
 # Biden Farewell Address Word Cloud
 
-This repository contains the code for generating a word cloud from President Joe Biden's Farewell Address delivered on January 16, 2025. The word cloud visualizes the most frequently used words from the speech, helping to highlight key themes and topics discussed during the address.
+This repository contains the code for generating a word cloud from President Joe Biden's Farewell Address delivered on January 15, 2025. The word cloud visualizes the most frequently used words from the speech, helping to highlight key themes and topics discussed during the address.
 
 ---
 
